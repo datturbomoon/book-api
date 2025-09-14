@@ -62,17 +62,3 @@ app.delete("/books/:id", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-
-// i did this earlier, same code, lets try
-
-// sorry about that, i forgot to add /book itself, lol
-
-// lets try runnung powershell command lines
-
-// tried creating, now, let's try deleting
-
-// anyway, lets deploy to github, oh its working now
-
-// lets delete the second book
-
-// now lets add a README file
