@@ -1,0 +1,23 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "A simple RESTful API built with Node.js and Express that allows you to perform CRUD (Create, Read, Update, Delete) operations on a collection of books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datturbomoon/book-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datturbomoon/book-api/issues"
+  },
+  "homepage": "https://github.com/datturbomoon/book-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
