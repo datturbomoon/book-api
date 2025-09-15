@@ -75,8 +75,8 @@ The server will start at `http://localhost:3000`.
 
 ```json
 [
-  { "id": 1, "title": "Eleven Minutes", "author": "Paulo Coelho" },
-  { "id": 2, "title": "The Alchemist", "author": "Paulo Coelho" }
+  { "id": 1, "title": "The Alchemist", "author": "Paulo Coelho" },
+  { "id": 2, "title": "Eleven Minutes", "author": "Paulo Coelho" }
 ]
 ```
 
@@ -89,7 +89,7 @@ The server will start at `http://localhost:3000`.
 **Response (200 OK):**
 
 ```json
-{ "id": 1, "title": "Eleven Minutes", "author": "Paulo Coelho" }
+{ "id": 1, "title": "The Alchemist", "author": "Paulo Coelho" }
 ```
 
 **If not found (404):**
@@ -107,13 +107,13 @@ The server will start at `http://localhost:3000`.
 **Request Body:**
 
 ```json
-{ "title": "Eleven Minutes (Updated)" }
+{ "title": "The Alchemist (Updated)" }
 ```
 
 **Response (200 OK):**
 
 ```json
-{ "id": 1, "title": "Eleven Minutes (Updated)", "author": "Paulo Coelho" }
+{ "id": 1, "title": "The Alchemist (Updated)", "author": "Paulo Coelho" }
 ```
 
 ---
@@ -125,7 +125,7 @@ The server will start at `http://localhost:3000`.
 **Response (200 OK):**
 
 ```json
-{ "id": 1, "title": "Eleven Minutes", "author": "Paulo Coelho" }
+{ "id": 1, "title": "The Alchemist", "author": "Paulo Coelho" }
 ```
 
 **If not found (404):**
