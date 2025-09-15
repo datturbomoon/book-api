@@ -8,8 +8,8 @@ app.use(express.json());
 
 // In-memory "database"
 let books = [
-  { id: 1, title: "Eleven Minutes", author: "Paulo Coelho" },
-  { id: 2, title: "The Alchemist", author: "Paulo Coelho" },
+  { id: 1, title: "The Alchemist", author: "Paulo Coelho" },
+  { id: 2, title: "Eleven Minutes", author: "Paulo Coelho" },
 ];
 let nextId = 3;
 
