@@ -135,12 +135,3 @@ The server will start at `http://localhost:3000`.
 ```
 
 ---
-
-## ✅ Acceptance Criteria
-
-* All CRUD endpoints are implemented.
-* Returns proper HTTP status codes.
-* JSON responses with error messages when needed.
-* Code is simple, clean, and well-structured.
-
----
